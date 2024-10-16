@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Cameron Kelly</h1>
 <h3 align="center">Data Science major at Creighton University</h3>
 
-<p align="cemter"> <img src="https://komarev.com/ghpvc/?username=ckelly27&label=Profile%20views&color=0e75b6&style=flat" alt="ckelly27" /> </p>
+
 
 - I'm currently working on **NBA Scorigami**
 
