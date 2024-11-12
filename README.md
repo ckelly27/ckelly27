@@ -5,7 +5,7 @@
 
 - I'm currently working on **NBA Scorigami**
 
-- I’m currently learning **R, MySQL, C#**
+- I’m currently learning **R, MySQL
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
